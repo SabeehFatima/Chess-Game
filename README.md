@@ -22,22 +22,5 @@ This is a simple console-based Chess Game implemented in C++ using the Code::Blo
 2. Compile & run `main.cpp`.
 3. Follow on-screen prompts to play.
 
-## Push to GitHub
-```sh
-# Initialize repo
-git init
-
-# Add files
-git add .
-
-# Commit changes
-git commit -m "Initial commit: Chess Game"
-
-# Link to GitHub
-git remote add origin <your-repo-url>
-
-# Push to GitHub
-git push -u origin main
-```
 ♟️ Enjoy your game! 🚀
 
