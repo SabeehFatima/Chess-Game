@@ -1,7 +1,5 @@
 
 # Chess Game (C++)
-
-## About
 This is a simple console-based Chess Game implemented in C++ using the Code::Blocks IDE. It features an interactive ASCII chessboard and allows two players to play with proper move validation, saving, and loading functionality.
 
 ## Features
