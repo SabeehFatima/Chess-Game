@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1706164003 source:c:\users\hp\desktop\pf practice\chess project\main.cpp
+	<iostream>
+	<windows.h>
+	<conio.h>
+	<math.h>
+	<fstream>
+
